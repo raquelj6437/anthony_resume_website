@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #0563bb;
+  color: #e6cb2c;
 }
 
 a:hover {
-  color: #067ded;
+  color: #ffe12e;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #0563bb;
+  background: #e6cb2c;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #0678e3;
+  background: #ffe12e;
   transition: background 0.2s ease-in-out;
 }
 
@@ -193,7 +193,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
   color: #fff;
-  background: #0563bb;
+  background: #e6cb2c;
 }
 
 .nav-menu a:hover span, .nav-menu .active > a span, .nav-menu li:hover > a span {
@@ -226,7 +226,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #45505b;
+  color: #e6cb2c;
 }
 
 .mobile-nav-active {
@@ -238,7 +238,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-active .mobile-nav-toggle i {
-  color: #0563bb;
+  color: #e6cb2c;
 }
 
 /*--------------------------------------------------------------
@@ -284,7 +284,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero p span {
-  color: #0563bb;
+  color: #e6cb2c;
   letter-spacing: 1px;
 }
 
@@ -360,7 +360,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #0563bb;
+  background: #e6cb2c;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -390,7 +390,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #0563bb;
+  color: #e6cb2c;
 }
 
 .about .content p:last-child {
@@ -415,7 +415,7 @@ section {
   left: 50%;
   transform: translateX(-50%);
   font-size: 24px;
-  background: #0563bb;
+  background: #e6cb2c;
   padding: 12px;
   color: #fff;
   border-radius: 50px;
@@ -467,7 +467,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #0563bb;
+  background-color: #e6cb2c;
 }
 
 /*--------------------------------------------------------------
@@ -484,7 +484,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #0563bb;
+  border-left: 2px solid #e6cb2c;
   position: relative;
 }
 
@@ -494,7 +494,7 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #0563bb;
+  color: #d1b928;
   margin-bottom: 10px;
 }
 
@@ -528,7 +528,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #0563bb;
+  border: 2px solid #e6cb2c;
 }
 
 /*--------------------------------------------------------------
@@ -852,7 +852,7 @@ section {
 }
 
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
-  color: #90c8fc;
+  color: #fff1a1;
   font-size: 26px;
 }
 
@@ -889,7 +889,7 @@ section {
 }
 
 .testimonials .owl-dot.active {
-  background-color: #0563bb !important;
+  background-color: #e6cb2c !important;
 }
 
 @media (min-width: 992px) {
@@ -908,11 +908,11 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #0563bb;
+  color: #c2ab23;
   float: left;
   width: 44px;
   height: 44px;
-  background: #eef7ff;
+  background: #fff7c7;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -940,7 +940,7 @@ section {
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #0563bb;
+  background: #c2ab23;
   color: #fff;
 }
 
@@ -1140,7 +1140,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #0563bb;
+  background: #e6cb2c;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1153,7 +1153,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #0678e3;
+  background: #ffe12e;
   color: #fff;
   text-decoration: none;
 }
