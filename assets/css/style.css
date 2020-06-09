@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #e6cb2c;
+  color: #272829;
 }
 
 a:hover {
@@ -818,6 +818,10 @@ section {
 
 .services .iconbox-teal:hover .icon path {
   fill: #11dbcf;
+}
+
+figure{
+  background-color: #fff1a6;
 }
 
 /*--------------------------------------------------------------
